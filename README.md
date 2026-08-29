@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Adarsh Gautam</h1>
-<h3 align="center">A passionate Business Analyst from india</h3>
+<h3 align="center">A passionate web Development</h3>
 
 
 
